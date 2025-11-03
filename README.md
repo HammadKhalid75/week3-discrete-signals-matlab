@@ -49,5 +49,5 @@ This repository contains a MATLAB script that generates **six fundamental discre
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/discrete-time-signals.git
+   git clone https://github.com/HammadKhalid75/week3-discrete-signals-matlab.git
    cd discrete-time-signals
